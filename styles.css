@@ -1,17 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Asap);
+}
+
 body {
-	background-color: #DBF1FF;
-	color: #FF0000;
+	font-family: 'Asap', sans-serif;
+	background-color: #FAF460;
 	font-size: 16px;
-	font-family: Helvetica, sans-serif;
 }
 h1 {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Asap', sans-serif;
 	font-size: 65px;
 	text-align: center;
 	font-style: italic;
 }
 #slogan {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Asap', sans-serif;
 	color: #fff;
 	font-size: 24px;
 	text-align: center;
@@ -29,20 +31,22 @@ img {
 	text-align: center;
 }
 p {
+	font-family: 'Times New Roman', sans-serif;
 	padding: 20px;
 	line-height: 20px;
-	font-family: Helvetica, sans-serif;
 	text-align: justify;
 	font-weight: bold;
 	padding-right: 200px;
 	padding-left: 200px;
 }
 li {
+	font-family: 'Asap', sans-serif;
 	text-align: center;
 	list-style-type: none;
 	font-weight: bold;
 }
-ul {
+ul { 
+	font-family: 'Asap', sans-serif;
 	text-align: justify;
 	padding-left: 500px;
 	list-style-type: none;
